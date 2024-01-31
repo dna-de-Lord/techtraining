@@ -1,0 +1,4 @@
+THE INTERNET
+It is a netwwork of interconnected network devices accross the globe.
+The internet uses a set of protocols to communicate between devices. All devices on the internet must obey these requirements in order to be connected.
+When a device is successfully connected, it can send and receive information with any device on the internet if it has the needed protocols in place for communication.

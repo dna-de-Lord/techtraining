@@ -1,0 +1,5 @@
+HTTP
+Hyper Text Transmission Protocol
+it is an unsecured transmission protocol for sharing information on the internet.
+it has a secured version (https) which ensures that data is encrypted with a hash generated keys.
+It uses ip/tcp as rules of communication. ip (internet protocol) is an address that points to resources on the internet. there are two versions; the ipv4 and ipv6
